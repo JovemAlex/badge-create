@@ -38,7 +38,6 @@ Rodar o projeto em seu navegador:
   npm start
 ```
 
-<img src="" />
-<img src="" />
+<img src="src/assets/badge-creator-home.png" />
 
 _Projeto recebe constates atualizações de estilizações e funcionalidades._
